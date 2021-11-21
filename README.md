@@ -4,6 +4,9 @@ Developed with Unreal Engine 4
 
 Proyecto Final Unreal Engine 4
 
-Integrantes 
+Integrantes
+
+
 Sebastian Cómbita Cayon
+
 Brayan Palacio Rodriguez
